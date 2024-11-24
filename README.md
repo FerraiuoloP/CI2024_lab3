@@ -10,4 +10,4 @@ The problem is created by starting from the solution and applying a sequence of 
 ## Performance
 The quality should always align with the lowest achievable solution for each problem.
 The cost can vary significantly depending on the specific problem. 
-On my hardware, 3x3 grids are typically solved in just a few seconds. For 4x4 grids, the process can take up to ~20 minutes (using 10.000 `RANDOMIZE_STEPS`). Grids of 5x5 or larger require significantly more time to solve.
+On my hardware, 3x3 grids are typically solved in just a few seconds. For 4x4 grids, the process can take up to ~20 minutes (using 10.000 `RANDOMIZE_STEPS`). Grids of 5x5 or larger require significantly more time to solve. 
