@@ -1,5 +1,5 @@
 # CI2024_lab3
-Solve efficently a generic n^2-1 (also known as Gem Puzzle, Boss Puzzle, 15 puzzle, etc.) using path-search algorithms.  
+Solve efficiently a generic n^2-1 (also known as Gem Puzzle, Boss Puzzle, 15 puzzle, etc.) using path-search algorithms.  
 Quality: number of actions in the solutions.  
 Cost: total number of actions evaluated.  
 Efficiency: Quality vs. Cost.  
